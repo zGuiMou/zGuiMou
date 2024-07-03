@@ -1,6 +1,6 @@
 # Obsidian Vaults Repository
 
-![Obsidian Banner](https://obsidian.md/images/banner.png){ width=400 }
+![Obsidian Banner](https://obsidian.md/images/banner.png){ width=100 }
 
 Bem-vindo ao repositório de cofres do Obsidian! Este repositório é dedicado à organização, compartilhamento e gerenciamento de diversos cofres criados no Obsidian, uma das ferramentas mais populares para tomar notas e organizar conhecimentos.
 

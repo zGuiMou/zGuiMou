@@ -1,6 +1,16 @@
 # Obsidian Vaults Repository
 
-<img src="https://obsidian.md/images/banner.png" alt="Obsidian Banner" style="width:100%; height:auto;">
+<style>
+.banner {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  max-height: 80px; /* Ajuste conforme necessário para o efeito desejado */
+}
+</style>
+
+<img src="https://obsidian.md/images/banner.png" alt="Obsidian Banner" class="banner">
 
 <img src="https://th.bing.com/th/id/OIP.rT_UczbBJtFvRhTEecgahQAAAA?rs=1&pid=ImgDetMain" alt="Obsidian" width="100"> <img src="https://c.tenor.com/fPpD5zx3KNIAAAAC/minecraft-obsidian.gif" alt="Obsidian" width="100">
 

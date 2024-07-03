@@ -1,8 +1,6 @@
 # Obsidian Vaults Repository
 
-<img src="https://obsidian.md/images/banner.png" alt="Obsidian" width="200">
-
-![Obsidian Logo](https://obsidian.md/images/obsidian-logo-gradient.svg)
+<img src="https://obsidian.md/images/banner.png" alt="Obsidian" width="200"> <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian Logo" width="200">
 
 Bem-vindo ao repositório de cofres do Obsidian! Este repositório é dedicado à organização, compartilhamento e gerenciamento de diversos cofres criados no Obsidian, uma das ferramentas mais populares para tomar notas e organizar conhecimentos.
 

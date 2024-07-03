@@ -1,7 +1,29 @@
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# Obsidian Vaults Repository
 
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Obsidian](https://obsidian.md/images/obsidian-logo.png)
 
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+Bem-vindo ao repositório de cofres do Obsidian! Este repositório é dedicado à organização, compartilhamento e gerenciamento de diversos cofres criados no Obsidian, uma das ferramentas mais populares para tomar notas e organizar conhecimentos.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zGuiMou&show_icons=true&theme=radical)
+## Sobre o Projeto
+
+![Project Image](https://obsidian.md/images/example-vault.png)
+
+Este repositório contém uma coleção de cofres do Obsidian, cada um com um tema ou propósito específico. Os cofres são organizados em pastas e podem ser utilizados como templates ou referências para suas próprias notas e estudos.
+
+### Estrutura do Repositório
+
+- **Vault 1: [Nome do Cofre]**
+  - Descrição: Breve descrição do conteúdo e propósito deste cofre.
+  - Conteúdo: Resumo dos principais tópicos, subtemas e conceitos abordados.
+  
+- **Vault 2: [Nome do Cofre]**
+  - Descrição: Breve descrição do conteúdo e propósito deste cofre.
+  - Conteúdo: Resumo dos principais tópicos, subtemas e conceitos abordados.
+
+...
+
+## Como Usar
+
+1. Clone este repositório em sua máquina local:
+   ```bash
+   git clone https://github.com/seu-usuario/obsidian-vaults.git

@@ -6,26 +6,4 @@ Bem-vindo ao repositório de cofres do Obsidian! Este repositório é dedicado �
 
 ## Sobre o Projeto
 
-Este repositório contém uma coleção de cofres do Obsidian, cada um com um tema ou propósito específico. Os cofres são organizados em pastas e podem ser utilizados como templates ou referências para suas próprias notas e estudos.
-
-### Download do Obsidian
-
-Para baixar o Obsidian, visite [este link](https://obsidian.md/download).
-
-### Estrutura do Repositório
-
-- **Vault 1: [Nome do Cofre]**
-  - Descrição: Breve descrição do conteúdo e propósito deste cofre.
-  - Conteúdo: Resumo dos principais tópicos, subtemas e conceitos abordados.
-  
-- **Vault 2: [Nome do Cofre]**
-  - Descrição: Breve descrição do conteúdo e propósito deste cofre.
-  - Conteúdo: Resumo dos principais tópicos, subtemas e conceitos abordados.
-
-...
-
-## Como Usar
-
-1. Clone este repositório em sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/obsidian-vaults.git
+Este repositório contém informações sobre o meu uso pessoal do Obsidian, uma ferramenta poderosa para organização e gestão de conhecimento. Aqui você encontrará modelos e tutoriais que podem ser úteis para implementar no seu próprio sistema Obsidian.

@@ -1,6 +1,6 @@
 # Obsidian Vaults Repository
 
-<img src="https://s3-alpha.figma.com/hub/file/3587161863/a8d9596c-bb05-4f31-9b3f-d3d9d7bd9a22-cover.png" alt="Obsidian" width="200"> 
+![Cover Image](https://s3-alpha.figma.com/hub/file/3587161863/a8d9596c-bb05-4f31-9b3f-d3d9d7bd9a22-cover.png){ width=400 }
 
 Bem-vindo ao repositório de cofres do Obsidian! Este repositório é dedicado à organização, compartilhamento e gerenciamento de diversos cofres criados no Obsidian, uma das ferramentas mais populares para tomar notas e organizar conhecimentos.
 

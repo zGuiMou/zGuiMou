@@ -1,10 +1,14 @@
-# Obsidian Vaults Repository
+✨ **Vibe Coder | Prompting Ideas into Reality**
 
-<img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian Logo" width="150">
+> *"If you can describe it, it's already running."* ⚡
 
-Bem-vindo ao repositório de cofres do Obsidian! Aqui, compartilho e organizo os meus cofres criados no Obsidian.
+Focado em criar rápido, validar conceitos e entregar protótipos funcionais usando AI-assisted workflows (Cursor, VS Code + Agentic Workflows & Copilots). 
 
-## Sobre o Projeto
+* 🧠 **Flow State:** Transformando ideias malucas em MVP no mesmo dia.
+* ⚡ **Stack:** Python, Node.js, Web Automation, APIs, AI Agents.
+* 🔒 **Private Builds:** Atualmente trabalhando em ferramentas e automações internas. 
 
-Este repositório abrange o meu uso pessoal do Obsidian. Explore modelos e tutoriais que podem ser úteis para implementar no seu próprio sistema Obsidian.
+---
 
+🤝 **Quer trocar uma ideia ou ver um projeto privado?**
+Se você quer dar uma olhada em algum repositório fechado, colaborar ou ver um MVP em ação, me manda uma mensagem! Libero o acesso do repo privado para o seu usuário.
